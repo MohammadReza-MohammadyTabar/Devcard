@@ -110,3 +110,5 @@ C:\Users\MAXELL\source\repos\Devcard\DevCard_mvc\bin\Debug\netcoreapp3.1\zh-Hant
 C:\Users\MAXELL\source\repos\Devcard\DevCard_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\MAXELL\source\repos\Devcard\DevCard_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 C:\Users\MAXELL\source\repos\Devcard\DevCard_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Articles\_LatestArticles.cshtml.g.cs
+C:\Users\MAXELL\source\repos\Devcard\DevCard_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Users\MAXELL\source\repos\Devcard\DevCard_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
