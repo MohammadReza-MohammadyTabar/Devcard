@@ -8,7 +8,6 @@ C:\Users\MAXELL\source\repos\DevCard\DevCard_mvc\bin\Debug\netcoreapp3.1\DevCard
 C:\Users\MAXELL\source\repos\DevCard\DevCard_mvc\bin\Debug\netcoreapp3.1\DevCard_mvc.pdb
 C:\Users\MAXELL\source\repos\DevCard\DevCard_mvc\bin\Debug\netcoreapp3.1\DevCard_mvc.Views.dll
 C:\Users\MAXELL\source\repos\DevCard\DevCard_mvc\bin\Debug\netcoreapp3.1\DevCard_mvc.Views.pdb
-C:\Users\MAXELL\source\repos\DevCard\DevCard_mvc\obj\Debug\netcoreapp3.1\DevCard_mvc.csprojAssemblyReference.cache
 C:\Users\MAXELL\source\repos\DevCard\DevCard_mvc\obj\Debug\netcoreapp3.1\DevCard_mvc.AssemblyInfoInputs.cache
 C:\Users\MAXELL\source\repos\DevCard\DevCard_mvc\obj\Debug\netcoreapp3.1\DevCard_mvc.AssemblyInfo.cs
 C:\Users\MAXELL\source\repos\DevCard\DevCard_mvc\obj\Debug\netcoreapp3.1\DevCard_mvc.csproj.CoreCompileInputs.cache

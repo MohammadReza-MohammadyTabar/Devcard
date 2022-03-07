@@ -14,10 +14,11 @@ namespace DevCard_mvc.ViewComponents
         {
             var projects = new List<Project>
             {
-                new Project(1,"مغازه","سیستم گردش و حسابداری مغازه های کوچک ","محمد","project-1.jpg"),
-                new Project(2,"دوچرخه","کرایه دوچرخه برای استفاده در سطح شهر","علی","project-2.jpg"),
-                new Project(3,"سازکالا","سایت فروشگاهی لوازم و آلات موسیقی","رضا","project-3.jpg"),
-                new Project(4,"کامپیورکالا","فروش لوازم کامپیوتر حرفه ای ","حسن","project-4.jpg")
+                new Project(1,"کتاب فروشی ERD","دیاگرام دیتابیس کتاب فروشی"," ","1.jpg","https://s23.picofile.com/file/8448121684/ERDDiagram1.png"),
+                new Project(2,"صندوق کافی نت","سیستم صندوق کافی نت شخصی با "," ","2.jpg","https://github.com/maxell-77/cofeenet"),
+                new Project(3,"ربات رای دهنده در صفحه وب","رای دادن در یک سایت با استفاده از کتاب خانه سلنیوم "," ","3.jpg","https://github.com/maxell-77/selenume")
+
+
             };
             return View("_Projects",projects);
         }

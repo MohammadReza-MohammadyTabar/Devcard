@@ -10431,17 +10431,17 @@ hr {
     top: 0;
     height: 100vh;
     width: 280px;
-    background: #54B689;
+    background: #5484b6;
     color: #fff;
     overflow-y: auto;
     scrollbar-color: rgba(0, 0, 0, 0.2) #54B689;
     scrollbar-width: thin
 }
 
-.header::-webkit-scrollbar {
-    width: 6px;
-    background-color: #54B689
-}
+    .header::-webkit-scrollbar {
+        width: 6px;
+        background-color: #54B689
+    }
 
 .header::-webkit-scrollbar-thumb {
     background-color: rgba(0, 0, 0, 0.2);
